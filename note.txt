@@ -1,0 +1,12 @@
+Fonts---
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+
+
+colors---
+body> #E6E8D2
+
+icons---
+<i class="fa-solid fa-shop"></i>
+<i class="fa-solid fa-truck-fast"></i>
+<i class="fa-solid fa-medal"></i>
